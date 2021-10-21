@@ -1,0 +1,14 @@
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\bin\Debug\netcoreapp3.1\TrilhaEspecialistaItau.exe
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\bin\Debug\netcoreapp3.1\TrilhaEspecialistaItau.deps.json
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\bin\Debug\netcoreapp3.1\TrilhaEspecialistaItau.runtimeconfig.json
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\bin\Debug\netcoreapp3.1\TrilhaEspecialistaItau.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\bin\Debug\netcoreapp3.1\TrilhaEspecialistaItau.dll
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\bin\Debug\netcoreapp3.1\TrilhaEspecialistaItau.pdb
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\obj\Debug\netcoreapp3.1\TrilhaEspecialistaItau.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\obj\Debug\netcoreapp3.1\TrilhaEspecialistaItau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\obj\Debug\netcoreapp3.1\TrilhaEspecialistaItau.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\obj\Debug\netcoreapp3.1\TrilhaEspecialistaItau.AssemblyInfo.cs
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\obj\Debug\netcoreapp3.1\TrilhaEspecialistaItau.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\obj\Debug\netcoreapp3.1\TrilhaEspecialistaItau.dll
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\obj\Debug\netcoreapp3.1\TrilhaEspecialistaItau.pdb
+C:\Users\mateu\source\repos\TrilhaEspecialistaItau\TrilhaEspecialistaItau\obj\Debug\netcoreapp3.1\TrilhaEspecialistaItau.genruntimeconfig.cache
